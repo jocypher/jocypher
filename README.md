@@ -1,13 +1,13 @@
 **HI I'M JONATHAN WILCHIELD ARTHUR**
-
-😄 Pronouns: He/His
-🔭 I’m currently building Mobile Applications both android and ios .
-🌱 I’m also extending my knowledge in building flutter web applications.
-👯 I’m looking to collaborate on any projects .
-💬 Ask me about Flutter or any tech-related stuff.
-📫 How to reach me: Check social links below.
-⚡ Fun fact: I enjoy watching anime .
-
+<p>
+😄 Pronouns: He/His </br>
+🔭 I’m currently building Mobile Applications both android and ios .</br>
+🌱 I’m also extending my knowledge in building flutter web applications.</br>
+👯 I’m looking to collaborate on any projects .</br>
+💬 Ask me about Flutter or any tech-related stuff. </br>
+📫 How to reach me: Check social links below. </br>
+⚡ Fun fact: I enjoy watching anime .</br>
+</p>
 
 **Tech Stack**
 <p>
