@@ -36,13 +36,4 @@
 <img alt ="Windows" src="https://img.shields.io/badge/Windows-0078D6?logo=windows&logoColor=white&style=flate" />
 <img alt ="Linux" src="https://img.shields.io/badge/Linux-000000?logo=linux&logoColor=white&style=flate" />
  </p>
- 
-**Github Profile Summary**
- <p>
-<img src="https://github-readme-stats.vercel.app/api?username=jocypher&count_private=true&theme=radical&show_icons=true" />
-</p>
-
-**Top Languages Used**
-<p>
-<img src=https://github-readme-stats.vercel.app/api/top-langs/?username=jocypher &layout=compact />
  </p>
